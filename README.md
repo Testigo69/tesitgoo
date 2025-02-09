@@ -1,5 +1,7 @@
 # testigo
 
+[Website](https://testigo.xyz) | [Twitter](https://twitter.com/testigo)
+
 ## Overview
 testigo is a revolutionary, secure, web-based collaborative terminal that allows you to share your terminal with anyone instantly via a simple link. Designed for seamless real-time collaboration, testigo provides a smooth and reliable experience with advanced features and strong security.
 
